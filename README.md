@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# 提供一个翻页页码选择的小插件
-# 依赖Jquery
-# 样式和其他需要的传参在demo.html 里面
-=======
-# this is a simple page turning code and the first time use git commit code.
->>>>>>> origin/master
+
+#-- 缈婚〉椤电爜閫夋嫨鐨勫皬鎻掍欢
+#-- 渚濊禆Jquery
+#-- 鏍峰紡鍜屽叾浠栭渶瑕佺殑浼犲弬鍦╠emo.html 閲岄潰鏌ョ湅
+
